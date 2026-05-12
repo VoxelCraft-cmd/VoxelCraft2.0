@@ -1,5 +1,5 @@
 {
-  "version": "2.4.2",
-  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.4.2/VoxelCraft_Update_2_4_2_SOUND_SYSTEM_LOADING_FIX_PATCH_ONLY.zip",
-  "notes": "VoxelCraft 2.4.2: re-release of the original procedural sound system and stuck-loading/engine import fix."
+  "version": "2.4.3",
+  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.4.3/VoxelCraft_Update_2_4_3_MENU_LOADING_FIX_PATCH_ONLY.zip",
+  "notes": "VoxelCraft 2.4.3: fixes stuck Engine loading by using classic local scripts and updates the title menu to Multiplayer, Singleplayer, Options, and Quit Game only."
 }
