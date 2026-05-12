@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.3.0/VoxelCraft_Update_2_3_0_VISUAL_STYLE_OVERHAUL_PATCH_ONLY.zip",
-  "notes": "VoxelCraft 2.3.0: original visual style overhaul with custom voxel textures, polished UI, better hotbar/inventory, menu panorama, and block particles."
+  "version": "2.4.0",
+  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.4.0/VoxelCraft_Update_2_4_0_SOUND_SYSTEM_LOADING_FIX_PATCH_ONLY.zip",
+  "notes": "VoxelCraft 2.4.0: adds a full original procedural sound system and fixes the stuck-loading/engine import issue."
 }
