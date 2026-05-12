@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.1.0/VoxelCraft_Update_2_1_0_BUTTONS_MECHANICS_PATCH_ONLY.zip",
-  "notes": "VoxelCraft 2.1.0: fixes Singleplayer, Multiplayer, Realms, Options buttons and adds mechanics foundation update."
+  "version": "2.1.1",
+  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.1.1/VoxelCraft_Update_2_1_1_BUTTON_HOTFIX_PATCH_ONLY.zip",
+  "notes": "VoxelCraft 2.1.1: hotfixes menu buttons and adds startup error reporting."
 }
