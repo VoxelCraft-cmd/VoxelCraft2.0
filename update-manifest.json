@@ -1,5 +1,5 @@
 {
-  "version": "2.4.4",
-  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.4.4/VoxelCraft_Update_2_4_4_MENU_CONTROLLER_GREY_BUTTON_FIX_PATCH_ONLY.zip",
-  "notes": "VoxelCraft 2.4.4: fixes VC_SHOW not defined, makes the menu controller load before buttons, and changes the buttons to grey."
+  "version": "2.4.6",
+  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.4.6/VoxelCraft_Update_2_4_6_FULL_SETTINGS_MENU_FIX_PATCH_ONLY.zip",
+  "notes": "VoxelCraft 2.4.6: fixes blank settings pages and makes Video Settings, Chat Settings, Sounds, Controls, Language, Accessibility, Resource Packs, Server Options, Privacy/Data, and Credits open with real controls."
 }
