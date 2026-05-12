@@ -1,5 +1,5 @@
 {
-  "version": "2.4.6",
-  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.4.6/VoxelCraft_Update_2_4_6_FULL_SETTINGS_MENU_FIX_PATCH_ONLY.zip",
-  "notes": "VoxelCraft 2.4.6: fixes blank settings pages and makes Video Settings, Chat Settings, Sounds, Controls, Language, Accessibility, Resource Packs, Server Options, Privacy/Data, and Credits open with real controls."
+  "version": "2.4.7",
+  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.4.7/VoxelCraft_Update_2_4_7_HARD_MENU_BOOT_FIX_PATCH_ONLY.zip",
+  "notes": "VoxelCraft 2.4.7: hard-fixes VC_SHOW/menu startup by loading the controller in the head, removes inline title button dependencies, keeps grey buttons, and keeps settings menu fixes."
 }
