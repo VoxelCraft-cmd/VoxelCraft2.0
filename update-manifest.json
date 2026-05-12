@@ -1,5 +1,5 @@
 {
-  "version": "2.4.3",
-  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.4.3/VoxelCraft_Update_2_4_3_MENU_LOADING_FIX_PATCH_ONLY.zip",
-  "notes": "VoxelCraft 2.4.3: fixes stuck Engine loading by using classic local scripts and updates the title menu to Multiplayer, Singleplayer, Options, and Quit Game only."
+  "version": "2.4.4",
+  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.4.4/VoxelCraft_Update_2_4_4_MENU_CONTROLLER_GREY_BUTTON_FIX_PATCH_ONLY.zip",
+  "notes": "VoxelCraft 2.4.4: fixes VC_SHOW not defined, makes the menu controller load before buttons, and changes the buttons to grey."
 }
