@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
-  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.1.2/VoxelCraft_Update_2_1_2_FORCE_MENU_REMAKE_PATCH_ONLY.zip",
-  "notes": "VoxelCraft 2.1.2: force remakes menu/start system and fixes buttons not responding."
+  "version": "2.3.0",
+  "downloadUrl": "https://github.com/VoxelCraft-cmd/VoxelCraft2.0/releases/download/v2.3.0/VoxelCraft_Update_2_3_0_VISUAL_STYLE_OVERHAUL_PATCH_ONLY.zip",
+  "notes": "VoxelCraft 2.3.0: original visual style overhaul with custom voxel textures, polished UI, better hotbar/inventory, menu panorama, and block particles."
 }
